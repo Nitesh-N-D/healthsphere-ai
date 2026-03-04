@@ -214,7 +214,7 @@ export default function Landing() {
             <Link to="/encyclopedia" className="hover:text-teal-400 transition-colors">Encyclopedia</Link>
             <Link to="/pandemic" className="hover:text-teal-400 transition-colors">Pandemics</Link>
           </div>
-          <p>© 2024 HealthSphere AI. Not a medical device.</p>
+          <p>© 2026 HealthSphere AI. Not a medical device.</p>
         </div>
       </footer>
     </div>
